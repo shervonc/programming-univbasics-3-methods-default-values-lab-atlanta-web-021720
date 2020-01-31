@@ -1,4 +1,4 @@
-def meal_choice(protein = "meat", veg1 ,veg2)# Your code here
+def meal_choice(veg1 ,veg2,protein = "meat")# Your code here
 
 puts "What a nutritious meal!"
 
